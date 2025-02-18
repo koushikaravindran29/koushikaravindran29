@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FullStack**
 
-- 👨‍💻 All of my projects are available at [https://koushikaravindran-portfolio.netlify.app/](https://koushikaravindran-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://koushikaravindran-portfolio.netlify.app/](https://koushikaportfolio.netlify.app/)
 
 - 💬 Ask me about **react,html,css,sql,springboot,js**
 
