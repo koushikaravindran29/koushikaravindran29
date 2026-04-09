@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://koushikaravindran-portfolio.netlify.app/](https://koushikaportfolio.netlify.app/)
 
-- 💬 Ask me about **react,html,css,sql,springboot,js**
+- 💬 Ask me about **java,oops,dbms,html,css,sql,springboot**
 
 - 📫 How to reach me **koushikaravindran2004@gmail.com**
 
